@@ -6,7 +6,11 @@ import Movies from "./Pages/Movies";
 
 import Favoris from "./Pages/Favoris";
 
+<<<<<<< HEAD
 const App=()=> {
+=======
+function App() {
+>>>>>>> 687c85bee7baa8dd3a478ae06c752cb83be9fee0
 
   return (
 

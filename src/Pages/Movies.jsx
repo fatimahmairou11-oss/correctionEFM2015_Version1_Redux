@@ -1,4 +1,5 @@
 import { useSelector, useDispatch } from "react-redux";
+<<<<<<< HEAD
 
 import { addToFavoris } from "../features/movieSlice";
 
@@ -6,6 +7,13 @@ function Movies() {
 
   const movies = useSelector(state => state.movies.movies);
 console.log(movies);
+=======
+import { addToFavoris } from "../redux/actions";
+const Movies=() =>{
+
+  const movies = useSelector(state => state.movies);
+
+>>>>>>> 687c85bee7baa8dd3a478ae06c752cb83be9fee0
   const dispatch = useDispatch();
 
   return (

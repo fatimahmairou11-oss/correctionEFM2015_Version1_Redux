@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "movieapptoolkit",
+=======
+  "name": "movieapp",
+>>>>>>> 687c85bee7baa8dd3a478ae06c752cb83be9fee0
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,12 +14,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@reduxjs/toolkit": "^2.14.0",
+=======
+>>>>>>> 687c85bee7baa8dd3a478ae06c752cb83be9fee0
     "bootstrap": "^5.3.8",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "react-redux": "^9.3.1",
+<<<<<<< HEAD
     "react-router-dom": "^7.18.5"
+=======
+    "react-router-dom": "^7.18.5",
+    "redux": "^5.0.1"
+>>>>>>> 687c85bee7baa8dd3a478ae06c752cb83be9fee0
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
